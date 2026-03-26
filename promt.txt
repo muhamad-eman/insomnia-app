@@ -1,0 +1,6 @@
+buatkan issue.md untuk membuat planning pembuatan aplikasi sistem pakar berbasis web sebagai berikut: 
+
+- sistem pakar untuk mendiagnosa gangguan tidur atau insomnia - menggunakan metode dempster shafer.
+
+gunakan bahasa pemrograman php native, html, css, dan javascript.
+
